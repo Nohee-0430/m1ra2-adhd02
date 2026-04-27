@@ -1,0 +1,95 @@
+body {
+    background-color: #eacfd9;
+}
+
+header {
+    text-align: right;
+}
+
+hr {
+    border: 2px dotted hotpink;
+}
+
+.aling-center {
+    text-align: center;
+}
+
+.tabla-pagina1 th {
+    background-color: #877499 !important;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+.tabla-pagina1 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.h6-pagina1 {
+    padding: 1px;
+}
+
+.h1-pagina2 {
+    color: #db3e8c;
+    padding: 5px;
+}
+
+img {
+    width: 250px;
+}
+
+.bg-color1 {
+    color: white !important;
+}
+
+.bg-body1 {
+    background-color: #e27396 !important;
+    padding: 20px 25px;
+}
+
+.bg-body1 a:hover {
+    background-color: #e9a3b9 !important;
+    padding: 10px;
+}
+
+.card-color-p1 {
+    background-color: #fba7bc !important;
+}
+
+.h5-pagina2 {
+    color: #b80f54 !important;
+}
+
+.tabla-pagina3 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.h2-pagina3 {
+    color: #b80f54;
+}
+
+.div-pag4 {
+    border: 1px solid #b80f54 !important;
+    padding: 15px;
+    margin: 5px;
+}
+
+.row div {
+    border: 1px solid #e4a6c3;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.color1 {
+    background-color: #f8c8dc;
+}
+
+.color2 {
+    background-color: #fff3b0;
+}
+
+.color3 {
+    background-color: #d4f4dd;
+}
